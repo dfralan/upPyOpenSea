@@ -40,6 +40,9 @@ pip install pyautogui
 ```bash
 python upPyOpenSea.py
 ```
+- Escucharás tres campanas, que te indicarán que es momento de Conectar tu billetera a OpenSea.
+
+- Ahora solo observa la magia. 
 
 ## Construido con 🛠️
 
