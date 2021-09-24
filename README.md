@@ -1,5 +1,9 @@
 # upPyOpenSea
-Automate your NFT uploads. 
+Automate your NFT uploads.
+
+## Alcances
+
+Puedes combinarlo con otros de mis proyectos, para seleccionar los archivos desde una carpeta, o si te sentís PRO, generarlos dentro del mismo archivo e ir subiendolos a medida que se creen.
 
 ## Comenzando 🚀
 
@@ -26,7 +30,7 @@ pip install pyautogui
 
 ## Put it to run 🔧
 
-- Reemplaza los campos necesarios antes de ejecutar en tu editor de código.
+- Reemplaza los campos necesarios en tu editor de código antes de ejecutar desde el terminal.
 
 ```bash
 python upPyOpenSea.py
