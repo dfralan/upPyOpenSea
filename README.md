@@ -57,7 +57,7 @@ También puedes mirar la lista de todos los [contribuyentes](https://github.com/
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE.md](https://github.com/dfralan/upPyOpenSea/LICENSE.md) para detalles
+Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE.md](https://github.com/dfralan/upPyOpenSea/blob/main/LICENSE.md) para detalles
 
 ## Expresiones de Gratitud 🎁
 
