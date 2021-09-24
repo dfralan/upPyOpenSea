@@ -15,7 +15,7 @@ Estas instrucciones te permitirán obtener una copia del proyecto en funcionamie
 
 - Revisá que versión de google chrome tienes instalada en tu navegador tipeando en tu navegador: chrome://version
 
-- Descarga la version de chromedriver correspondiente a tu version de chrome desde este link: https://chromedriver.chromium.org/
+- Descarga la version de chromedriver correspondiente a tu version de chrome desde este link: https://sites.google.com/a/chromium.org/chromedriver/downloads
 
 - Creá un nuevo profile en Chrome que incluya únicamente la extensión de tu wallet, por ejemplo MetaMask, para evitar conflictos en la ejecución)
 
