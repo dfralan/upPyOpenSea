@@ -16,6 +16,8 @@ Estas instrucciones te permitirán obtener una copia del proyecto en funcionamie
 - Descarga chromedriver desde este link:
 https://chromedriver.storage.googleapis.com/94.0.4606.41/chromedriver_win32.zip
 
+- Obtén la ruta de tu Profile Info de google chrome tipeando en tu navegador (de lo contrario no tendrás instalada ninguna extensión, aunque recomiendo crear un profile nuevo que incluya únicamente la extensión de tu wallet, por ejemplo MetaMask): chrome://version
+
 - Instala Selenium
 
 ```bash
@@ -31,7 +33,6 @@ pip install pyautogui
 ## Put it to run 🔧
 
 - Reemplaza los campos necesarios en tu editor de código antes de ejecutar desde el terminal.
-- Obtén la ruta de tu Profile Info tipeando en tu navegador: ###chrome://version
 
 ```bash
 python upPyOpenSea.py
