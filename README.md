@@ -11,14 +11,15 @@ Estas instrucciones te permitirán obtener una copia del proyecto en funcionamie
 
 ## Pre-requisitos 📋
 
-- Descarga el proyecto
+- Descarga el proyecto desde este link: https://github.com/dfralan/upPyOpenSea/archive/refs/heads/main.zip 
 
-- Descarga chromedriver desde este link:
-https://chromedriver.storage.googleapis.com/94.0.4606.41/chromedriver_win32.zip
+- Revisá que versión de google chrome tienes instalada en tu navegador tipeando en tu navegador: chrome://version
+
+- Descarga la version de chromedriver correspondiente a tu version de chrome desde este link: https://chromedriver.chromium.org/
 
 - Creá un nuevo profile en Chrome que incluya únicamente la extensión de tu wallet, por ejemplo MetaMask, para evitar conflictos en la ejecución)
 
-- Obtén la ruta de tu Profile Info de google chrome tipeando en tu navegador: chrome://version
+- Obtén la ruta de tu Profile Info de google chrome tipeando nuevamente en tu navegador: chrome://version
 
 - Instala Selenium
 
