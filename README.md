@@ -31,6 +31,7 @@ pip install pyautogui
 ## Put it to run 🔧
 
 - Reemplaza los campos necesarios en tu editor de código antes de ejecutar desde el terminal.
+- Obtén la ruta de tu Profile Info tipeando en tu navegador: ####chrome://version
 
 ```bash
 python upPyOpenSea.py
