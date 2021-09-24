@@ -7,13 +7,17 @@ Estas instrucciones te permitirán obtener una copia del proyecto en funcionamie
 
 ## Pre-requisitos 📋
 
-### Descarga el proyecto
+- Descarga el proyecto
 
-### Descarga chromedriver desde este link: https://chromedriver.storage.googleapis.com/94.0.4606.41/chromedriver_win32.zip
+- Descarga chromedriver desde este link:
+https://chromedriver.storage.googleapis.com/94.0.4606.41/chromedriver_win32.zip
+
+- Instala Selenium
 
 ```bash
 pip install selenium
 ```
+- Instala pyautogui
 
 ```bash
 pip install pyautogui
