@@ -11,7 +11,7 @@ import pyautogui
 options = webdriver.ChromeOptions()
 options.add_argument(r"--user-data-dir=C:/Users/YOUR_USERNAME/AppData/Local/Google/Chrome/User Data") #Get profile from Chrome (To know wher is your profile data go read the README file)
 options.add_argument(r'--profile-directory=Profile 3') #Set profile for ChromeDrive (Replace with yours, in this case "Profile 3")
-web = webdriver.Chrome(executable_path=r'C:/Users/YOUR_USERNAME/AppData/Local/Programs/Python/Python39/Lib/site-packages/chromedriver_py/chromedriver_win32.exe', chrome_options=options) (Loading options)
+web = webdriver.Chrome(executable_path=r'C:/Users/YOUR_USERNAME/AppData/Local/Programs/Python/Python39/Lib/site-packages/chromedriver_py/chromedriver_win32.exe', chrome_options=options) (Loading options) #Here goes the path to chromeDriver (Check README file)
 web.get("https://opensea.io/asset/create") #This open opensea.io on your browser (Sign In in your wallet when you hear the 3 bells, if you face some troubles, just refresh the page, nothing bad is gonna happen, and press "Sign In" again, that should work.)
 
 time.sleep(5) #Just relaxing a while, you would thank me later, when things become heavier
