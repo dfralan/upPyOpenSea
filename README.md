@@ -1,5 +1,5 @@
 # upPyOpenSea
-Automate your NFT uploads.
+Automate your NFT uploads in chrome browser.
 
 ## Alcances 🦄
 
