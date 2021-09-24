@@ -35,7 +35,7 @@ pip install pyautogui
 
 ## Put it to run 🔧
 
-- Reemplaza los campos necesarios en tu editor de código antes de ejecutar desde el terminal.
+- Reemplaza los campos necesarios en el archivo upPyOpenSea.py en tu editor de código antes de ejecutar desde el terminal.
 
 ```bash
 python upPyOpenSea.py
