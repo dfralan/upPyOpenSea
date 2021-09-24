@@ -5,12 +5,11 @@ Automate your NFT uploads.
 
 Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local.
 
+## Pre-requisitos 📋
 
-### Pre-requisitos 📋
+### Descarga el proyecto
 
-## Descarga el proyecto
-
-## Descarga chromedriver desde este link: https://chromedriver.storage.googleapis.com/94.0.4606.41/chromedriver_win32.zip
+### Descarga chromedriver desde este link: https://chromedriver.storage.googleapis.com/94.0.4606.41/chromedriver_win32.zip
 
 ```bash
 pip install selenium
@@ -21,7 +20,7 @@ pip install pyautogui
 ```
 
 
-### Put it to run 🔧
+## Put it to run 🔧
 
 ```bash
 python upPyOpenSea
