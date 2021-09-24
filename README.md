@@ -1,7 +1,7 @@
 # upPyOpenSea
 Automate your NFT uploads.
 
-## Alcances
+## Alcances 🦄
 
 Puedes combinarlo con otros de mis proyectos, para seleccionar los archivos desde una carpeta, o si te sentís PRO, generarlos dentro del mismo archivo e ir subiendolos a medida que se creen.
 
