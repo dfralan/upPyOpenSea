@@ -1,9 +1,9 @@
 # upPyOpenSea
 Automate your NFT uploads to OpenSea in chrome browser with Python.
 
-## Alcances 🦄
+## Importante 🦄
 
-Puedes combinarlo con otros de mis proyectos, para seleccionar los archivos desde una carpeta, o si te sentís PRO, generarlos dentro del mismo archivo e ir subiendolos a medida que se creen.
+La firma de tu billetera se realiza de forma manual por seguridad, despues de esto, la subida será automática. Puedes combinarlo con otros de mis proyectos, para seleccionar los archivos desde una carpeta, o si te sentís PRO, generarlos dentro del mismo archivo e ir subiendolos a medida que se creen.
 
 ## Comenzando 🚀
 
@@ -40,7 +40,7 @@ pip install pyautogui
 ```bash
 python upPyOpenSea.py
 ```
-- Escucharás tres campanas, que te indicarán que es momento de Conectar tu billetera a OpenSea.
+- Escucharás tres campanas, que te indicarán que es momento de Conectar tu billetera a OpenSea, tendrás 30 segundos para realizar esta acción.
 
 - Ahora solo observa la magia. 
 
