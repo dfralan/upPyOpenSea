@@ -73,10 +73,9 @@ Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE.md](https://
 
 ## Expresiones de Gratitud 🎁
 
-* Comenta a otros sobre este proyecto 📢
-* Invitame un café ☕, sin cafe, solo el money, o no sé, mandame un saquito de té con un delivery. 
-* Da las gracias públicamente 🤓.
+* Suma tu destreza al proyecto 📢
+* Realiza feedback de tu resultado en ejecución 🤓.
 * Deja volar tu imaginación 💫 (0x87C35820fe988e73c54f71fB69da61Ac05474d26) ETH wallet.
 
 ---
-⌨️ con ❤️ por [dfralan](https://github.com/dfralan) 💁‍♂️
+con ❤️ por [dfralan](https://github.com/dfralan) 💁‍♂️
