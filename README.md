@@ -1,15 +1,15 @@
 # upPyOpenSea
 Automate your NFT uploads to OpenSea in chrome browser with Python.
 
-## Importante 🦄
+** Importante 🦄 **
 
 La firma de tu billetera se realiza de forma manual por seguridad, despues de esto, la subida será automática. Puedes combinarlo con otros de mis proyectos, para seleccionar los archivos desde una carpeta, o si te sentís PRO, generarlos dentro del mismo archivo e ir subiendolos a medida que se creen.
 
-## Comenzando 🚀
+** Comenzando 🚀 **
 
 Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local.
 
-## Pre-requisitos 📋
+** Pre-requisitos 📋 **
 
 - Descarga el proyecto desde este link: https://github.com/dfralan/upPyOpenSea/archive/refs/heads/main.zip 
 
@@ -33,7 +33,7 @@ pip install pyautogui
 ```
 
 
-## Put it to run 🔧
+** Put it to run 🔧 **
 
 - Reemplaza los campos necesarios en el archivo upPyOpenSea.py en tu editor de código antes de ejecutar desde el terminal.
 
@@ -44,7 +44,7 @@ python upPyOpenSea.py
 
 - Ahora solo observa la magia. 
 
-## Construido con 🛠️
+** Construido con 🛠️ **
 
 * [pip](https://github.com/pypa/pip) - pip for dependencies.
 * [Python](https://github.com/python/) - Porsupollo Python.
@@ -52,11 +52,11 @@ python upPyOpenSea.py
 * [webdriver](https://w3c.github.io/webdriver/) - Navigator driver.
 * [pyautogui](https://github.com/asweigart/pyautogui/) - Handle keyboard and type.
 
-## Contribuyendo 🖇️
+** Contribuyendo 🖇️ **
 
 Por ahora solo ETH, sorry not sorry por el spanglish 🦧
 
-## Autores ✒️
+** Autores ✒️ **
 
 https://github.com/dfralan
 
@@ -64,11 +64,11 @@ https://github.com/dfralan
 
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/dfralan/upPyOpenSea/contributors) quíenes han participado en este proyecto. 
 
-## Licencia 📄
+** Licencia 📄 **
 
 Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE.md](https://github.com/dfralan/upPyOpenSea/blob/main/LICENSE) para detalles
 
-## Expresiones de Gratitud 🎁
+** Expresiones de Gratitud 🎁 **
 
 * Suma tu destreza al proyecto 📢
 * Realiza feedback de tu resultado en ejecución 🤓.
