@@ -77,4 +77,4 @@ Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE.md](https://
 ---
 # ⌨️ con ❤️
 
-(https://github.com/dfralan) 💁‍♂️
+https://github.com/dfralan 💁‍♂️
