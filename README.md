@@ -13,7 +13,7 @@ Estas instrucciones te permitirán obtener una copia del proyecto en funcionamie
 
 - Descarga el proyecto desde este link: https://github.com/dfralan/upPyOpenSea/archive/refs/heads/main.zip 
 
-- Revisá que versión de google chrome tienes instalada en tu navegador tipeando en tu navegador: chrome://version
+- Revisa que versión de google chrome tienes instalada en tu navegador tipeando en tu navegador: chrome://version
 
 - Descarga la version de chromedriver correspondiente a tu version de chrome desde este link: https://sites.google.com/a/chromium.org/chromedriver/downloads
 
