@@ -46,24 +46,21 @@ python upPyOpenSea.py
 
 ## Construido con 🛠️
 
-Para el proyecto utilizaremos
-
-
-* [pip](https://github.com/pypa/pip) - pip patra instalar dependencias.
-* [Python](https://github.com/python/) - Por supuesto Python.
+* [pip](https://github.com/pypa/pip) - pip for dependencies.
+* [Python](https://github.com/python/) - Porsupollo Python.
 * [selenium](https://github.com/SeleniumHQ/selenium/) - Framework de automatización.
 * [webdriver](https://w3c.github.io/webdriver/) - Navigator driver.
 * [pyautogui](https://github.com/asweigart/pyautogui/) - Handle keyboard and type.
 
 ## Contribuyendo 🖇️
 
-Por ahora solo ETH 🦧
+Por ahora solo ETH, sorry not sorry por el spanglish 🦧
 
 ## Autores ✒️
 
 https://github.com/dfralan
 
-* **dfralan** - *Trabajo Inicial* - [dfralan](https://github.com/dfralan)
+**dfralan** - *Trabajo Inicial* - [dfralan](https://github.com/dfralan)
 
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/dfralan/upPyOpenSea/contributors) quíenes han participado en este proyecto. 
 
@@ -78,4 +75,6 @@ Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE.md](https://
 * Deja volar tu imaginación 💫 (0x87C35820fe988e73c54f71fB69da61Ac05474d26) ETH wallet.
 
 ---
-con ❤️ por [dfralan](https://github.com/dfralan) 💁‍♂️
+#⌨️ con ❤️
+
+(https://github.com/dfralan) 💁‍♂️
