@@ -1,6 +1,11 @@
 # upPyOpenSea
 Automate your NFT uploads to OpenSea in chrome browser with Python.
 
+** Updates 🤖 **
+
+- Agregado con contador que refresca la página cada 20 NFT's subidos.
+- Implementacion de WebDriverWait para mayor velocidad de subida, y omisión de funciones sleep en zonas importantes.
+
 ** Importante 🦄 **
 
 La firma de tu billetera se realiza de forma manual por seguridad, despues de esto, la subida será automática. Puedes combinarlo con otros de mis proyectos, para seleccionar los archivos desde una carpeta, o si te sentís PRO, generarlos dentro del mismo archivo e ir subiendolos a medida que se creen.
