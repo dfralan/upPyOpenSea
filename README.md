@@ -3,8 +3,8 @@ Automate your NFT uploads to OpenSea in chrome browser with Python.
 
 ** Updates 🤖 **
 
-- Agregado con contador que refresca la página cada 20 NFT's subidos.
-- Implementacion de WebDriverWait para mayor velocidad de subida, y omisión de funciones sleep en zonas importantes.
+- Agreagado contador que refresca la página cada 20 NFT's subidos para evitar llenado de cache.
+- Implementacion de WebDriverWait para mayor velocidad de subida, y omisión de funciones sleep en zonas relevantes.
 
 ** Importante 🦄 **
 
